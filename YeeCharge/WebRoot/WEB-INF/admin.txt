@@ -1,3 +1,0 @@
-/addProd.jsp
-/AddprodServlet
-/SaleListServlet
