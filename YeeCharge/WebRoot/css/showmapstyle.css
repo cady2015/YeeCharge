@@ -1,0 +1,117 @@
+#header{
+				width:100%;
+				height:20%;
+				margin:0 auto;
+				position:relative;
+				background:#0099CC;
+			}
+			   /********内容样式*************/
+			#mainleft{
+				float: left;
+				width:17%;
+				height:75%;
+				background: #99CCCC;
+				padding-left:0.5%;
+				margin-left: 0;
+				margin-top: 0;
+				padding-top:10%;
+				
+			}
+			#mainright{
+			    float: left;
+				width:60%;
+				height:75%;
+				border-style: solid;
+				border-color:#FF6600;
+				border-width:3px;
+				padding-left: 0;
+				padding-top:0 ;
+				margin-left:0%;
+				margin-top: 0%;
+				
+			}
+			#mainright1{
+			    float: left;
+				width:83%;
+				height:75%;
+				border-style: solid;
+				border-color:#FF6600;
+				border-width:3px;
+				padding-left: 0;
+				padding-top:0 ;
+				margin-left:0%;
+				margin-top: 0%;
+				
+			}
+			#allmap {
+		 		width: 100%;
+		 		height: 100%;
+		 		overflow: hidden;
+		 		margin:0;
+		 		font-family:"微软雅黑";
+		 		float:left;
+		 	}
+		 	
+		 	#allmapright{
+		 	   
+		 		width:23%;
+				height:75%;
+				padding-left: 0%;
+				padding-top:0% ;
+				margin-left:77%;
+				margin-top: 0%;
+		 		background-color:#FFFFCC;
+		 	 }
+			#footer{
+				clear: both;
+				position: relative;
+				width:100%;
+				height:5%;
+				font-family:"΢���ź�";
+				margin:0 auto;
+				font-size:16px;
+			    padding-left: 0;
+				padding-top:0.5% ;
+				margin-left:0;
+				margin-top: 0;
+				background:#444;
+				position:fixed;
+                bottom:0;
+			}
+	 		
+	 		
+	 		.daohang{
+	 			font-size:14px;
+	 			text-align: center;
+	 			margin:3px;
+	 			line-height: 100%;
+	 			height: 10%;
+	 			width: 85%;
+	 		    display:block;
+	 			
+	 		}
+	 		.daohang:link,.daohang:visited{
+	 			color: #333333;
+	 			padding: 8px 12px 8px 12px;
+	 			background-color: #99CCFF;
+	 			text-decoration: none;
+	 			border-top: 2px solid #FF6600;
+	 			border-left: 2px solid #FF6600;
+	 			border-bottom: 2px solid #FF6600;
+	 			border-right: 2px solid #FF6600;
+	 			border-radius: 10px;
+	 		}
+	 		.daohang:hover{
+	 			color:#333333;
+	 			padding: 5px 8px 3px 12px;
+	 			background-color:#FFFFCC ;
+	 			border-top: 1px solid #761C19;
+	 			border-left: 1px solid #761C19;
+	 			border-bottom: 1px solid  #761C19;
+	 			border-right: 1px solid #761C19;
+	 		}
+	 		
+	 		p{
+	 		    font-size:18px;
+	 		    font-family:"微软雅黑";
+	 		}
